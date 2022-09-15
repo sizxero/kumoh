@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kumoh/static/css/main.073c9b0a.css",
+    "main.js": "/kumoh/static/js/main.2b485d4e.js",
+    "static/js/787.4a92618d.chunk.js": "/kumoh/static/js/787.4a92618d.chunk.js",
+    "static/media/logo.svg": "/kumoh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kumoh/index.html",
+    "main.073c9b0a.css.map": "/kumoh/static/css/main.073c9b0a.css.map",
+    "main.2b485d4e.js.map": "/kumoh/static/js/main.2b485d4e.js.map",
+    "787.4a92618d.chunk.js.map": "/kumoh/static/js/787.4a92618d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2b485d4e.js"
+  ]
+}
